@@ -18,3 +18,6 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | Platform | Plugin | Example |
 |----------|--------|---------|
 | WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) | [examples/woocommerce]() |
+
+# Support
+For any questions or support, please reach out to us at *hello🦄tapsilat.dev*
