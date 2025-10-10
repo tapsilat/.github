@@ -19,6 +19,13 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 |----------|--------|---------|
 | WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) | [examples/woocommerce]() |
 
+# Tools
+| Platform | OS | Repo | 
+|----------|--------|---------|
+| brew.sh | MacOS/Linux | [tapsilat-homebrew-cli](https://github.com/tapsilat/homebrew-cli) | [tapsilat/homebrew-cli]() |
+
+
+
 # Support
 For any questions or support, please reach out to us at *hello🦄tapsilat.dev*
 
