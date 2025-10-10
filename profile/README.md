@@ -22,7 +22,7 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 # Tools
 | Platform | OS | Repo | 
 |----------|--------|---------|
-| brew.sh | MacOS/Linux | [tapsilat-homebrew-cli](https://github.com/tapsilat/homebrew-cli) | [tapsilat/homebrew-cli]() |
+| brew.sh | MacOS/Linux | [tapsilat/homebrew-cli](https://github.com/tapsilat/homebrew-cli) |
 
 
 
