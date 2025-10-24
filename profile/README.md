@@ -13,6 +13,7 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | Ruby | [tapsilat-ruby](https://github.com/tapsilat/tapsilat-ruby) | [examples/ruby](https://github.com/tapsilat/examples/tree/main/ruby) |
 | Rust | [tapsilat-rust](https://github.com/tapsilat/tapsilat-rust) | [examples/rust](https://github.com/tapsilat/examples/tree/main/rust) |
 | TypeScript | [tapsilat-js](https://github.com/tapsilat/tapsilat-js) | [examples/typescript](https://github.com/tapsilat/examples/tree/main/typescript) |
+| Flutter | [tapsilat-flutter](https://github.com/tapsilat/tapsilat-flutter) In Development | [examples/flutter](https://github.com/tapsilat/examples/tree/main/flutter) |
 
 # Plugins & Integrations
 | Platform | Plugin | Example |
