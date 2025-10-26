@@ -1,9 +1,10 @@
-## Hi there 👋 financial orchestration is here!
+# Hi there 👋 financial orchestration is here!
 
 Tapsilat is an all in one whitelabel digital fintech platform suited for electronic money and payment institutions, holdings, startups and neobanks. Modular and scalable IT solutions to the banking & financial, governmental and retail sector. We simplified the process with our innovative platform. Services like digital wallets, internet payment gateways (IPG), KYC, KYB and neobanking are highly sought after by retail, small and medium enterprises (SME).
 
-# SDKs & Examples
+# Developers Developers Developers
 
+## Backend
 | Language | SDK | Example |
 |----------|-----|---------|
 | Go | [tapsilat-go](https://github.com/tapsilat/tapsilat-go) | [examples/go](https://github.com/tapsilat/examples/tree/main/go) |
@@ -14,14 +15,18 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | Ruby | [tapsilat-ruby](https://github.com/tapsilat/tapsilat-ruby) | [examples/ruby](https://github.com/tapsilat/examples/tree/main/ruby) |
 | Rust | [tapsilat-rust](https://github.com/tapsilat/tapsilat-rust) | [examples/rust](https://github.com/tapsilat/examples/tree/main/rust) |
 | TypeScript | [tapsilat-js](https://github.com/tapsilat/tapsilat-js) | [examples/typescript](https://github.com/tapsilat/examples/tree/main/typescript) |
+
+## Mobile
+| Language | SDK | Example |
+|----------|-----|---------|
 | Flutter | [tapsilat-flutter](https://github.com/tapsilat/tapsilat-flutter) In Development | [examples/flutter](https://github.com/tapsilat/examples/tree/main/flutter) |
 
-# Plugins & Integrations
+## Plugins
 | Platform | Plugin | Example |
 |----------|--------|---------|
 | WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) | [examples/woocommerce]() |
 
-# Tools
+## Tools
 | Platform | OS | Repo | 
 |----------|--------|---------|
 | brew.sh | MacOS/Linux | [tapsilat/homebrew-cli](https://github.com/tapsilat/homebrew-cli) |
