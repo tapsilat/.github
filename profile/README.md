@@ -12,6 +12,7 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | .NET | [Tapsilat-Net](https://github.com/tapsilat/Tapsilat-Net) | [examples/net](https://github.com/tapsilat/examples/tree/main/net) |
 | PHP | [tapsilat-php](https://github.com/tapsilat/tapsilat-php) | [examples/php](https://github.com/tapsilat/examples/tree/main/php) |
 | Python | [tapsilat-py](https://github.com/tapsilat/tapsilat-py) | [examples/python](https://github.com/tapsilat/examples/tree/main/python) |
+| React | [tapsilat-react](https://github.com/tapsilat/tapsilat-react) 🚧 | [examples/react](https://github.com/tapsilat/examples/tree/main/react) |
 | Ruby | [tapsilat-ruby](https://github.com/tapsilat/tapsilat-ruby) | [examples/ruby](https://github.com/tapsilat/examples/tree/main/ruby) |
 | Rust | [tapsilat-rust](https://github.com/tapsilat/tapsilat-rust) | [examples/rust](https://github.com/tapsilat/examples/tree/main/rust) |
 | TypeScript | [tapsilat-js](https://github.com/tapsilat/tapsilat-js) | [examples/typescript](https://github.com/tapsilat/examples/tree/main/typescript) |
@@ -19,12 +20,15 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 ## Mobile
 | Language | SDK | Example |
 |----------|-----|---------|
-| Flutter | [tapsilat-flutter](https://github.com/tapsilat/tapsilat-flutter) In Development | [examples/flutter](https://github.com/tapsilat/examples/tree/main/flutter) |
+| Flutter | [tapsilat-flutter](https://github.com/tapsilat/tapsilat-flutter) 🚧 | [examples/flutter](https://github.com/tapsilat/examples/tree/main/flutter) |
+| React Native| [tapsilat-react-native](https://github.com/tapsilat/tapsilat-react-native) 🚧 | [examples/react-native](https://github.com/tapsilat/examples/tree/main/react-native) |
 
 ## Plugins
-| Platform | Plugin | Example |
-|----------|--------|---------|
-| WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) | [examples/woocommerce]() |
+| Platform | Plugin |
+|----------|--------|
+| WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) |
+| Shopify | [tapsilat-shopify](https://github.com/tapsilat/tapsilat-shopify) 🚧| 
+| Odoo | [tapsilat-odoo](https://github.com/tapsilat/tapsilat-odoo) 🚧|
 
 ## Tools
 | Platform | OS | Repo | 
