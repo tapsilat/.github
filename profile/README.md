@@ -21,7 +21,7 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | Language | SDK | Example |
 |----------|-----|---------|
 | Flutter | [tapsilat-flutter](https://github.com/tapsilat/tapsilat-flutter) | [examples/flutter](https://github.com/tapsilat/tapsilat-flutter/tree/main/example) |
-| React Native| [tapsilat-react-native](https://github.com/tapsilat/tapsilat-react-native) 🚧 | [examples/react-native](https://github.com/tapsilat/examples/tree/main/react-native) |
+| React Native| [tapsilat-react-native](https://github.com/tapsilat/tapsilat-react-native) | [examples/react-native](https://github.com/tapsilat/examples/tree/main/react-native) |
 
 ## Plugins
 | Platform | Plugin |
