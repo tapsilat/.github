@@ -38,8 +38,8 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 
 ## Platforms
 | Platform | Link | 
-|----------|--------|---------|
-| Postman | MacOS/Linux | [Postman/Tapsilat](https://www.postman.com/tapsilat) |
+|----------|--------|
+| Postman |[Postman/Tapsilat](https://www.postman.com/tapsilat) |
 
 # Support
 For any questions or support, please reach out to us at *hello🦄tapsilat.dev*
