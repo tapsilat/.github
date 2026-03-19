@@ -30,6 +30,7 @@ Tapsilat is an all in one whitelabel digital fintech platform suited for electro
 | WordPress | [tapsilat-woocommerce](https://github.com/tapsilat/tapsilat-woocommerce) |
 | Odoo | [tapsilat-odoo](https://apps.odoo.com/apps/modules/19.0/payment_tapsilat)|
 | Laravel | [tapsilat-larvel](https://github.com/tapsilat/tapsilat-laravel) |
+| n8n | https://www.npmjs.com/package/@tapsilat/n8n-nodes-tapsilat |
 | Shopify |  🚧| 
 | Medusa | 🚧 |
 
